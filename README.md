@@ -1,2 +1,4 @@
 # QR-code-generator
-I have used Html, CSS, javascript and React js
+I have used 
+<br>
+Html, CSS, javascript and React js
